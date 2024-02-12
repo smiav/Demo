@@ -8,4 +8,6 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Document.ПриемНаРаботу</content>
+  <content>Catalog.Подразделения</content>
+  <content>Catalog.Должности</content>
 </mdclass:Subsystem>

@@ -39,5 +39,7 @@
   <constants>Constant.НаименованиеОрганизации</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
+  <catalogs>Catalog.Должности</catalogs>
+  <catalogs>Catalog.Подразделения</catalogs>
   <documents>Document.ПриемНаРаботу</documents>
 </mdclass:Configuration>

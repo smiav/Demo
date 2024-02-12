@@ -36,6 +36,7 @@
   </languages>
   <subsystems>Subsystem.Настройки</subsystems>
   <subsystems>Subsystem.КадровыйУчет</subsystems>
+  <constants>Constant.НаименованиеОрганизации</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <documents>Document.ПриемНаРаботу</documents>
